@@ -1,134 +1,209 @@
-# Hi, I'm Akhil Krishna 👋
-
-### Software Developer · Android · Python · AI
-
-I enjoy building practical software, exploring emerging technologies, and turning ideas into working applications.
-
-I believe good software is not just about writing code — it's about solving problems, making thoughtful engineering decisions, and creating things that are genuinely useful.
-
----
-
-### About Me
-
-- 💻 Interested in software development, application engineering, and emerging technologies.
-- 📱 Exploring Android development with Kotlin and Jetpack Compose.
-- 🐍 Working with Python, data science, and automation.
-- 🔐 Interested in application security, privacy, and reliable software architecture.
-- 🧪 I enjoy experimenting, learning by building, and understanding how things work.
-
----
-
-### Technologies & Tools
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:161B22,100:1F6FEB&text=AKHIL%20KRISHNA&fontColor=F0F6FC&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20ANDROID%20%E2%80%A2%20PYTHON%20%E2%80%A2%20AI&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Akhil Krishna — Software Developer" />
 </p>
 
-**Development**
-
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room_Database-4285F4?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+build+software+that+solves+real+problems.;Android+%7C+Kotlin+%7C+Python+%7C+AI;Curious+by+default.+Builder+by+habit." alt="Developer introduction" />
 </p>
 
-**Data Science & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/akhilkvu6">
+    <img src="https://img.shields.io/badge/GitHub-akhilkvu6-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/FOCUS-Building%20%26%20Learning-1F6FEB?style=for-the-badge" alt="Building and learning" />
 </p>
 
 ---
 
-### Selected Projects
+<h2 align="center">01 · THE DEVELOPER</h2>
 
-A few things I've been building and exploring.
+<p align="center">
+  Software developer interested in building useful applications,<br/>
+  understanding the systems behind them, and exploring what's possible with technology.
+</p>
 
-#### 📱 [AK Smart Bulk Video Renamer](https://github.com/akhilkvu6/AK-Smart-Bulk-Video-Renamer)
-
-An Android application for organizing and renaming video collections by creator.
-
-- Filename-based creator identification.
-- Preview-oriented batch renaming workflow.
-- Copy-only design that preserves original source files.
-- Export verification.
-
-`Kotlin` `Jetpack Compose` `Room` `Android`
-
-#### 🔐 [CipherVault](https://github.com/akhilkvu6/CipherVault)
-
-A secure private cloud storage project focused on protecting and managing files.
-
-- AES-256-GCM file encryption.
-- SHA-256-based duplicate detection.
-- File metadata extraction.
-- Secure upload and download functionality.
-
-`HTML` `Cryptography` `File Management`
-
-#### 🎓 [EPS — Exam Proctoring System](https://github.com/akhilkvu6/EPS-Exam-Proctoring-System)
-
-A Django-based online examination and proctoring system.
-
-- Role-based authentication.
-- Teacher verification.
-- MCQ examination management.
-- Automated evaluation.
-- Browser-based examination proctoring.
-
-`Django` `HTML` `Web Development`
-
-#### 📊 [Data Science Projects](https://github.com/akhilkvu6/ds)
-
-A collection of programming exercises and practical implementations exploring data science and machine learning.
-
-- Numerical computing with NumPy.
-- Data analysis using pandas.
-- Data visualization with Matplotlib.
-- Machine learning exercises.
-
-`Python` `NumPy` `Pandas` `Matplotlib`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I explore</h3>
+      - Android application development
+      - Python and data science
+      - Artificial intelligence
+      - Application security
+      - Software architecture
+      - Automation and developer tools
+    </td>
+    <td width="50%" valign="top">
+      <h3>How I approach engineering</h3>
+      - Understand the problem first
+      - Keep systems maintainable
+      - Protect original data
+      - Preview before critical operations
+      - Verify results
+      - Learn by building
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Engineering Interests
+<h2 align="center">02 · TECHNOLOGIES</h2>
 
-I'm particularly interested in:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,android,django,html,sqlite,git,github,linux&theme=dark" alt="Technology icons" />
+</p>
 
-- **Application Engineering** — Building practical, reliable applications.
-- **Software Architecture** — Understanding how systems are structured and maintained.
-- **Application Security** — Protecting data and designing safer workflows.
-- **Artificial Intelligence** — Exploring generative AI and local AI tools.
-- **Automation** — Eliminating repetitive work through software.
-
----
-
-### Beyond the Code
-
-I enjoy exploring technology, understanding how products are engineered, experimenting with new tools, and learning through personal projects.
-
-I'm more interested in building something useful than simply building something for the sake of it.
+<p align="center">
+  <sub>Technologies explored and used across my projects. This is a working toolkit, not a claim of equal proficiency in every technology.</sub>
+</p>
 
 ---
 
-### Let's Connect
+<h2 align="center">03 · SELECTED WORK</h2>
 
-I'm always interested in meaningful conversations about software, engineering, technology, and interesting projects.
+<p align="center">
+  A selection of applications and experiments I've worked on.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-akhilkvu6-181717?style=flat-square&logo=github)](https://github.com/akhilkvu6)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 AK Smart Bulk Video Renamer</h3>
+      <a href="https://github.com/akhilkvu6/AK-Smart-Bulk-Video-Renamer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilkvu6&repo=AK-Smart-Bulk-Video-Renamer&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%" alt="AK Smart Bulk Video Renamer repository card"/>
+      </a>
+      An Android application for organizing video collections by creator.
+
+      - Filename-based creator extraction
+      - Batch renaming preview
+      - Non-destructive copy-only workflow
+      - Export verification
+
+      **Kotlin · Android · Jetpack Compose**
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 CipherVault</h3>
+      <a href="https://github.com/akhilkvu6/CipherVault">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilkvu6&repo=CipherVault&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%" alt="CipherVault repository card"/>
+      </a>
+      A private file-storage project focused on encrypted file handling and file management.
+
+      - AES-256-GCM encryption
+      - SHA-256 duplicate detection
+      - Metadata extraction
+      - File upload and download
+
+      **Cryptography · File Management**
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Examination & Proctoring System</h3>
+      <a href="https://github.com/akhilkvu6/EPS-Exam-Proctoring-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilkvu6&repo=EPS-Exam-Proctoring-System&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%" alt="Exam Proctoring System repository card"/>
+      </a>
+      A web-based examination platform with examination management and proctoring functionality.
+
+      - Role-based authentication
+      - Teacher verification
+      - MCQ examination management
+      - Automated evaluation
+      - Browser-based proctoring
+
+      **Django · HTML · Web Development**
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Data Science Projects</h3>
+      <a href="https://github.com/akhilkvu6/ds">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilkvu6&repo=ds&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%" alt="Data Science repository card"/>
+      </a>
+      Practical programming exercises and experiments in data science and machine learning.
+
+      - Numerical computing
+      - Data analysis
+      - Data visualization
+      - Machine learning exercises
+
+      **Python · NumPy · Pandas · Matplotlib**
+    </td>
+  </tr>
+</table>
 
 ---
+
+<h2 align="center">04 · ENGINEERING PRINCIPLES</h2>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>01</h3>
+      **Build with purpose**
+      <br/>
+      <sub>Solve real problems.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>02</h3>
+      **Protect data**
+      <br/>
+      <sub>Preserve what matters.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>03</h3>
+      **Verify everything**
+      <br/>
+      <sub>Trust through testing.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>04</h3>
+      **Keep learning**
+      <br/>
+      <sub>Improve with every build.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">05 · GITHUB ACTIVITY</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilkvu6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkvu6&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <sub>Statistics are generated from available GitHub repository data. Language distribution is not a measure of proficiency.</sub>
+</p>
+
+---
+
+<h2 align="center">06 · BEYOND THE CODE</h2>
+
+<p align="center">
+  Technology is more than frameworks and programming languages.<br/>
+  I'm curious about how things work, how products are engineered,<br/>
+  and how thoughtful ideas become useful tools.
+</p>
+
+<p align="center">
+  <b>Learn something. Build something. Make it better.</b>
+</p>
+
+---
+
+<h2 align="center">LET'S CONNECT</h2>
+
+<p align="center">
+  <a href="https://github.com/akhilkvu6">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <i>"Build things that matter. Understand what you build. Keep learning."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1F6FEB,100:0D1117" width="100%" alt="Decorative footer"/>
 </p>
